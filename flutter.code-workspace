@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "animatedcontainer_and_gesturedetector"
+		},
+		{
+			"path": "anonymous_method"
+		},
+		{
+			"path": "list_and_listview"
+		},
+		{
+			"path": "container"
+		},
+		{
+			"path": "row_and_column"
+		},
+		{
+			"path": "statefull_widget"
+		},
+		{
+			"path": "textstyle"
+		},
+		{
+			"path": "flexible_layout"
+		}
+	],
+	"settings": {
+		"editor.minimap.enabled": false,
+		"editor.formatOnSave": false,
+		"[dart]": {
+			"editor.formatOnSave": false
+		},
+		"files.exclude": {}
+	}
+}
