@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "animatedcontainer_and_gesturedetector",
+            "cwd": "animatedcontainer_and_gesturedetector",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "anonymous_method",
+            "cwd": "anonymous_method",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "container",
+            "cwd": "container",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flexible_layout",
+            "cwd": "flexible_layout",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "list_and_listview",
+            "cwd": "list_and_listview",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "row_and_column",
+            "cwd": "row_and_column",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "statefull_widget",
+            "cwd": "statefull_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "textstyle",
+            "cwd": "textstyle",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

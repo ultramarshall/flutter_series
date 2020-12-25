@@ -1,2 +1,3 @@
-**/pubspec.lock/
 .DS_Store
+.gitignore
+anonymous_method/pubspec.lock

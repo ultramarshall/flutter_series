@@ -8,27 +8,45 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Flexibe Layout"),
+          title: Text("Flexibe Layout "),
         ),
         body: Column(
           children: <Widget>[
             Flexible(
-              flex: 1,
-              child: Container(
-                color: Colors.red,
-              )
+                          child: Row(
+                children: <Widget>[
+                  Flexible(
+                      flex: 1,
+                      child: Container(
+                        color: Colors.red,
+                      )
+                  ),
+                  Flexible(
+                      flex: 1,
+                      child: Container(
+                        color: Colors.green,
+                      )
+                  ),
+                  Flexible(
+                      flex: 1,
+                      child: Container(
+                        color: Colors.purple,
+                      )
+                  ),
+                ],
+              ),
             ),
             Flexible(
-              flex: 2,
-              child: Container(
-                color: Colors.amber,
-              )
+                flex: 2,
+                child: Container(
+                  color: Colors.amber,
+                )
             ),
             Flexible(
-              flex: 1,
-              child: Container(
-                color: Colors.blue,
-              )
+                flex: 1,
+                child: Container(
+                  color: Colors.blue,
+                )
             ),
           ],
         ),
